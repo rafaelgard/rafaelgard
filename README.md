@@ -1,7 +1,7 @@
 ## Hi there, I'm Rafael - Master's Student (USP), Production Engineer (UFF) and passionate about modeling and programming!!
 
 - 💻 Interests: Operational Research, Data Science
-- 🌱 I’m currently learning Machine Learning and SQL
+- 🌱 I’m currently learning Machine Learning, SQL and NoSQL
 - 🔍 2021 Goals: Learning more about Keras, Pytorch, deep learning and make a project using TPU
 - ⚡ Fun fact: I love to listen music and play guitar
 
