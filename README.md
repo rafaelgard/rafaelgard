@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-- Python, SQL, C, VBA
+- Python, SQL, C++, VBA
 
 ---
 
