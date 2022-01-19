@@ -2,7 +2,7 @@
 
 - 💻 Interests: Operational Research, Data Science
 - 🌱 I’m currently learning Machine Learning, SQL and NoSQL
-- 🔍 2021 Goals: Learning more about Keras, Pytorch, deep learning and make a project using TPU
+- 🔍 2022 Goals: Learning more about Keras, Pytorch, deep learning and make a project using TPU
 - ⚡ Fun fact: I love to listen music and play guitar
 
 
@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-- Python, SQL, C++, VBA
+- Python, SQL, C++, VBA and Gurobi.
 
 ---
 
