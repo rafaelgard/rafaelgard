@@ -17,6 +17,10 @@
 
 - Python, SQL, C++, VBA and Gurobi.
 
+### Experience with:
+
+- ML regression, clustering and classification models, NLP, Gurobi and operations research mathematical models.
+
 ---
 
 ### 📕 Latest Blog Posts
