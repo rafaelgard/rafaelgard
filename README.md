@@ -19,7 +19,7 @@
 
 ### Experience with:
 
-- ML regression, clustering and classification models, NLP, Gurobi and operations research mathematical models.
+- Sql consults, ML regression, clustering and classification models, NLP, Gurobi and operations research mathematical models.
 
 ---
 
