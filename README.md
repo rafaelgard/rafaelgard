@@ -39,6 +39,7 @@
 ### 💡 Some Other Cool Projects I Have Made
 
 <!-- BLOG-POST-LIST:START -->
+- [Gurobi_helper](https://github.com/rafaelgard/Gurobi_helper)
 - [Pandas_to_NLP](https://github.com/rafaelgard/Pandas_to_NLP)
 - [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
 - [Implementations-in-Gurobi](https://github.com/rafaelgard/Implementacoes-em-Gurobi)
