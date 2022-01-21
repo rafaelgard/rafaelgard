@@ -36,7 +36,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pandas_to_NLP](https://github.com/rafaelgard/Pandas_to_NLP)
-- [Minicourse-Python-To-Engeneering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
+- [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
 - [Implementations-in-Gurobi](https://github.com/rafaelgard/Implementacoes-em-Gurobi)
 - [Append_CSV](https://github.com/rafaelgard/Junta_CSV)
 <!-- BLOG-POST-LIST:END -->
