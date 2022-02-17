@@ -1,8 +1,8 @@
 ## Hi there, I'm Rafael - Master's Student (USP), Production Engineer (UFF) and passionate about modeling and programming!!
 
 - 💻 Interests: Operational Research, Data Science
-- 🌱 I’m currently learning Machine Learning, SQL and NoSQL
-- 🔍 2022 Goals: Learning more about Keras, Pytorch, deep learning and make a project using TPU
+- 🌱 I’m currently learning NoSQL
+- 🔍 2022 Goals: Learning more about convolutional neural network
 - ⚡ Fun fact: I love to listen music and play guitar
 
 
@@ -15,7 +15,11 @@
 
 ### Languages and Tools:
 
-- Python, SQL, C++, VBA and Gurobi.
+- Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib)
+- SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
+- C++
+- VBA 
+- Gurobi.
 
 ### Experience with:
 
