@@ -2,7 +2,7 @@
 
 - 💻 Interests: Operational Research, Data Science
 - 🌱 I’m currently learning NoSQL
-- 🔍 2022 Goals: Learning more about convolutional neural network
+- 🔍 2023 Goals: Learning more about vehicle routing problem (VRP), heuristics and metaheuristics
 - ⚡ Fun fact: I love to listen music and play guitar
 
 
@@ -17,13 +17,17 @@
 
 - Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
+- Power BI (Dax)
+- Gurobi
+- Azure
+- GCP
 - C++
 - VBA 
-- Gurobi.
+
 
 ### Experience with:
 
-- Sql consults, ML regression, clustering and classification models, NLP, Gurobi and operations research mathematical models.
+- Sql consults, ML regression, clustering and classification models, NLP, Gurobi and operations research mathematical models especialy involving VRP.
 
 ---
 
