@@ -1,6 +1,6 @@
 ## Hi there, I'm Rafael - Master's Student (USP), Production Engineer (UFF) and passionate about modeling and programming!!
 
-- 💻 Interests: Operational Research, Data Science
+- 📝 Interests: Operational Research, Data Science
 - 🌱 I’m currently learning NoSQL
 - 🔍 2023 Goals: Learning more about vehicle routing problem (VRP), heuristics and metaheuristics
 - ⚡ Fun fact: I love to listen music and play guitar
@@ -31,9 +31,10 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [Text based NPS Predictor](https://github.com/rafaelgard/text_based_nps_predictor)
 - [Data Science Aplicado ao Alistamento Militar](https://rafael-gardel.medium.com/data-science-aplicado-ao-alistamento-militar-411b727bbbb3)
 - [Analisando a Campanha Nacional de Vacinação contra Covid-19 com Data Science](https://rafael-gardel.medium.com/analisando-a-campanha-nacional-de-vacina%C3%A7%C3%A3o-contra-covid-19-com-data-science-621d6dc06f7c)
 - [Data Science aplicado a lista de espera do SUS na cidade do Rio de janeiro](https://rafael-gardel.medium.com/data-science-aplicado-a-lista-de-espera-do-sus-na-cidade-do-rio-de-janeiro-2203ade764ac)
@@ -62,5 +63,4 @@ You can reach me out on any channels below!
 ---
 
 [website]: https://rafael-gardel.medium.com/
-[instagram]: https://www.instagram.com/rafaelgard/
 [linkedin]: https://www.linkedin.com/in/rafael-gardel-b1976999/
