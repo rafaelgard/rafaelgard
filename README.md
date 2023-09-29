@@ -62,5 +62,7 @@ You can reach me out on any channels below!
 - You can also send me an [email](mailto:rafaelgardel@gmail.com)
 ---
 
-[website]: https://rafael-gardel.medium.com/
 [linkedin]: https://www.linkedin.com/in/rafael-gardel-b1976999/
+[website]: https://rafael-gardel.medium.com/
+[instagram]: https://www.instagram.com/rafaelgard/
+
