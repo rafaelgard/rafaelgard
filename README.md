@@ -34,6 +34,7 @@
 ### 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [Starbucks_Reviews_EDA_NLP_ML](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
 - [Text based NPS Predictor](https://github.com/rafaelgard/text_based_nps_predictor)
 - [Data Science Aplicado ao Alistamento Militar](https://rafael-gardel.medium.com/data-science-aplicado-ao-alistamento-militar-411b727bbbb3)
 - [Analisando a Campanha Nacional de Vacinação contra Covid-19 com Data Science](https://rafael-gardel.medium.com/analisando-a-campanha-nacional-de-vacina%C3%A7%C3%A3o-contra-covid-19-com-data-science-621d6dc06f7c)
