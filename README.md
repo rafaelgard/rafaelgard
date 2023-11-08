@@ -15,10 +15,10 @@
 
 ### Languages and Tools:
 
-- Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib)
+- Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
 - Power BI (Dax)
-- Gurobi
+- Gurobi, Pyomo and Highs.
 - Azure
 - GCP
 - C++
@@ -34,6 +34,7 @@
 ### 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [Simulated-annealing]([https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML](https://github.com/rafaelgard/Simulated-annealing))
 - [Starbucks Reviews EDA, NLP and ML](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
 - [Text based NPS Predictor](https://github.com/rafaelgard/text_based_nps_predictor)
 - [Data Science Aplicado ao Alistamento Militar](https://rafael-gardel.medium.com/data-science-aplicado-ao-alistamento-militar-411b727bbbb3)
