@@ -34,7 +34,7 @@
 ### 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulated-annealing]([https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML](https://github.com/rafaelgard/Simulated-annealing))
+- [Simulated-annealing](https://github.com/rafaelgard/Simulated-annealing)
 - [Starbucks Reviews EDA, NLP and ML](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
 - [Text based NPS Predictor](https://github.com/rafaelgard/text_based_nps_predictor)
 - [Data Science Aplicado ao Alistamento Militar](https://rafael-gardel.medium.com/data-science-aplicado-ao-alistamento-militar-411b727bbbb3)
