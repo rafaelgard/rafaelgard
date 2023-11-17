@@ -34,6 +34,7 @@
 ### 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimization Projects with Gurobi, Highs and Pyomo](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
 - [Simulated-annealing](https://github.com/rafaelgard/Simulated-annealing)
 - [Starbucks Reviews EDA, NLP and ML](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
 - [Text based NPS Predictor](https://github.com/rafaelgard/text_based_nps_predictor)
@@ -50,10 +51,9 @@
 ### 💡 Some Other Cool Projects I Have Made
 
 <!-- BLOG-POST-LIST:START -->
+- [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
 - [Gurobi_helper](https://github.com/rafaelgard/Gurobi_helper)
 - [Pandas_to_NLP](https://github.com/rafaelgard/Pandas_to_NLP)
-- [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
-- [Implementations-in-Gurobi](https://github.com/rafaelgard/Implementacoes-em-Gurobi)
 - [Append_CSV](https://github.com/rafaelgard/Junta_CSV)
 <!-- BLOG-POST-LIST:END -->
 
@@ -61,7 +61,7 @@
 You can reach me out on any channels below!
 
 - I have a blog at [Medium](https://https://rafael-gardel.medium.com/)
-- You can also send me an [email](mailto:rafaelgardel@gmail.com)
+- You can also send me an [email](mailto:rafaelgardel@usp.br)
 ---
 
 [linkedin]: https://www.linkedin.com/in/rafael-gardel-b1976999/
