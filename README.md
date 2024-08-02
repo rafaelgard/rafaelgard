@@ -2,7 +2,7 @@
 
 - 📝 Interests: Operational Research, Data Science
 - 🌱 I’m currently learning NoSQL
-- 🔍 2023 Goals: Learning more about vehicle routing problem (VRP), heuristics and metaheuristics
+- 🔍 2024 Goals: Learning more about vehicle routing problem (VRP), heuristics and metaheuristics
 - ⚡ Fun fact: I love to listen music and play guitar
 
 
