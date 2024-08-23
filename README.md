@@ -1,4 +1,4 @@
-## Hi there, I'm Rafael - Master's Student (USP), Production Engineer (UFF) and passionate about modeling and programming!!
+## Hi there, I'm Rafael Gardel - Data Scientist, Master's Degree in Industrial Engineering (USP). and passionate about modeling and programming!!
 
 - 📝 Interests: Operational Research, Data Science
 - 🌱 I’m currently learning NoSQL
@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-- Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy)
+- Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy, Transformers)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
 - Power BI (Dax)
 - Gurobi, Pyomo and Highs.
@@ -24,12 +24,9 @@
 - C++
 - VBA 
 
-
 ### Experience with:
 
-- Sql consults, ML regression, clustering and classification models, NLP, Gurobi and operations research mathematical models especialy involving VRP.
-
----
+- Sql consults, ML regression, clustering and classification models, NLP, LLM, Gurobi and operations research mathematical models especialy involving VRP.
 
 ### 💻 Latest Projects
 
