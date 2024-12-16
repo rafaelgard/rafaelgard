@@ -1,8 +1,8 @@
 ## Hi there, I'm Rafael Gardel - Data Scientist, Master's Degree in Industrial Engineering (USP). and passionate about modeling and programming!!
 
 - 📝 Interests: Operational Research, Data Science
-- 🌱 I’m currently learning NoSQL
-- 🔍 2024 Goals: Learning more about vehicle routing problem (VRP), heuristics and metaheuristics
+- 🌱 I’m currently learning Julia and NoSQL
+- 🔍 2025 Goals: Learning more about vehicle routing problem (VRP), heuristics and metaheuristics
 - ⚡ Fun fact: I love to listen music and play guitar
 
 
@@ -21,6 +21,7 @@
 - Gurobi, Pyomo and Highs.
 - Azure
 - GCP
+- Julia
 - C++
 - VBA 
 
@@ -31,6 +32,7 @@
 ### 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing an hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia]([https://github.com/rafaelgard/Simulated-annealing](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia))
 - [Optimization Projects with Gurobi, Highs and Pyomo](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
 - [Simulated-annealing](https://github.com/rafaelgard/Simulated-annealing)
 - [Starbucks Reviews EDA, NLP and ML](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
