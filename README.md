@@ -32,7 +32,7 @@
 ### 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing an hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia]([https://github.com/rafaelgard/Simulated-annealing](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia)
+- [Implementing an hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia)
 - [Optimization Projects with Gurobi, Highs and Pyomo](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
 - [Simulated-annealing](https://github.com/rafaelgard/Simulated-annealing)
 - [Starbucks Reviews EDA, NLP and ML](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
